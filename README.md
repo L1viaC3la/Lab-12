@@ -1,4 +1,4 @@
-README — Lab 12
+README — Lab 13
 
 Ky projekt përmban 4 skripte që demonstrojnë përdorimin e funksioneve në Python:
 - Funksione bazë (pershendetje, konvertim temperaturash)
